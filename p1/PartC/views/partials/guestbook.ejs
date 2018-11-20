@@ -1,0 +1,50 @@
+
+<style>
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #313131;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #EBE8D9;
+}
+</style>
+<div class="midBox2">
+  <div class="midBox2L">
+    <h2>Where Does It Come From?</h2>
+
+    <h3>Contrary to popular belief, Lorem Ipsum is not<br /> simply random text.</h3>
+
+  </div>
+  <img src="images/c3_i7.png" width="460" height="237" alt="" />
+
+<br><br>
+<h2> Messages</h2>
+
+        <table>
+          <tr>
+            <th>Id</th>
+            <th>Username</th>
+            <th>Country</th>
+            <th>Date</th>
+            <th>Message</th>
+          </tr>
+
+          <% tag.forEach(function(tag) { %>
+          <tr>
+            <td><%= tag.id %></td>
+            <td><%= tag.username %></td>
+            <td><%= tag.country %></td>
+            <td><%= tag.date %></td>
+            <td><%= tag.message %></td>
+          </tr>
+          <% }); %>
+        </table>
+
+</div>
