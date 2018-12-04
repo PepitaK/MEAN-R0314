@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "username": "Pam",
+        "country": "Anguilla",
+        "date": "Thu Feb 22 2007 22:28:32 GMT+0200 (FLE Standard Time)",
+        "message": "How are you guys doing?"
+    },
+    {
+        "id": "2",
+        "username": "Sofia",
+        "country": "Macau",
+        "date": "Mon Apr 05 1993 09:12:01 GMT+0300 (FLE Daylight Time)",
+        "message": "Hello world!"
+    },
+    {
+        "id": "3",
+        "username": "Ashley",
+        "country": "Mauritania",
+        "date": "Sat Oct 19 1991 01:31:38 GMT+0300 (FLE Daylight Time)",
+        "message": "Greetings from Mauritania!"
+    },
+    {
+        "id": "4",
+        "username": "Baxter",
+        "country": "Malta",
+        "date": "Sat Sep 03 2005 08:52:38 GMT+0300 (FLE Daylight Time)",
+        "message": "Very nice!"
+    },
+    {
+        "id": "5",
+        "username": "Vickie",
+        "country": "Uganda",
+        "date": "Tue Jul 22 2003 08:53:21 GMT+0300 (FLE Daylight Time)",
+        "message": "Anyone from Africa here?"
+    },
+    {
+        "username": "Pepita",
+        "id": "1601460",
+        "date": "2018-11-18T11:48:51.821Z",
+        "country": "Finland",
+        "message": "Terveppä terve räkänokat ja papananaamat :) "
+    },
+    {
+        "username": "Risto",
+        "id": "43",
+        "date": "2018-11-18T11:51:19.809Z",
+        "country": "Potato island",
+        "message": "GREAT PAGE FOR REAL!!!"
+    },
+    {
+        "username": "Koira",
+        "id": "54",
+        "date": "2018-11-18T12:24:26.970Z",
+        "country": "Kissala",
+        "message": "Hau Hau!"
+    },
+    {
+        "username": "Ulle",
+        "id": "8",
+        "date": "2018-11-18T12:25:19.008Z",
+        "country": "Sweden",
+        "message": "Jätte bra!"
+    },
+    {
+        "username": "Mika K.",
+        "id": "23",
+        "date": "2018-11-20T06:39:39.041Z",
+        "country": "Vantaa",
+        "message": "Kukko kiekuu!"
+    }
+]
